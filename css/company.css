@@ -1,0 +1,58 @@
+body{
+    padding-bottom: 20px;
+    color:#5a5a5a;
+}
+.navbar-wrapper{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right:0;
+  z-index:20;
+}
+.navbar-wrapper .navbar.container{
+    min-width: auto;
+}
+.carousel .item {
+    height: 600px;
+    background: #777;
+}
+.carousel{
+    height: 600px;
+    margin-bottom: 50px;
+}
+.carousel-inner>.item> img{
+  position: absolute;
+  height: 600px;
+  min-width: 100%;
+}
+.team .col-lg-4{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+.team h2{
+    color: rgba(50,50,50,0.7);
+}
+.team p,h4{
+    color: rgba(50,50,50,0.7);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.devider{
+   margin: 40px,5px;
+}
+.row{
+    margin-left:10px;
+    margin-bottom: 30px;
+    padding-right: 20px;
+}
+.mickey{
+    text-align: center;
+    padding-left: 50px;
+    padding-bottom: 80px;
+}
+footer{
+    margin:0 120px;
+    background-color: black;    
+}
